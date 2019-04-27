@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on </title>
+    <link>/publication/</link>
+    <description>Recent content in Publications on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Mar 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Stabilization of Financial Dendrograms as a Method of Systemic Changes Measurement (A Study of TSE&#39;s Indices)</title>
+      <link>/publication/2019-03-18-varzide/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2019-03-18-varzide/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selection of Optimal Portfolio Using Expert System in Mamdani Fuzzy Environment</title>
+      <link>/publication/2019-03-18-koohbanani/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2019-03-18-koohbanani/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Denoising of Financial Time Series Using Wavelet Analysis</title>
+      <link>/publication/2019-03-18-dehghanifirooz/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2019-03-18-dehghanifirooz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Codification of Dendrograms Portfolio Based on Euclidean Distance Measure (A Comparison Between Different Methods of Hierarchical Clustering)</title>
+      <link>/publication/2019-03-18-foroughi/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2019-03-18-foroughi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Monitoring Financial Processes with ARMA-GARCH Model Based on Shewhart Control Chart (Case Study: Tehran Stock Exchange)</title>
+      <link>/publication/2019-03-18-dororian1/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2019-03-18-dororian1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The effect of parameter estimation on phase II control chart performance in monitoring financial GARCH processes with contaminated data</title>
+      <link>/publication/2019-03-18-doroudian2/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2019-03-18-doroudian2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deviation from Normal Distribution and Its Impact on the Differential Value-at-Risk</title>
+      <link>/publication/2019-03-18-dehghanman/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2019-03-18-dehghanman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using Extreme Value Theory to Estimate Value at Risk (Case Study: Foreign Exchange Rate)</title>
+      <link>/publication/2019-03-18-behboodi/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2019-03-18-behboodi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Measurement of Risk based on the Criterion of Value at Risk via Model of GARCH (A Study of Stock of Listeَd Companies in Tehran Stock Exchange (TSE) in the Cement Industry)</title>
+      <link>/publication/2019-03-18-kiani/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2019-03-18-kiani/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Developing a Theoretical Model for Alignment of Production Strategy, Marketing Strategy, and Business Strategy using Grounded Theory (Case study: Pishgamane Kavir Group)</title>
+      <link>/publication/2019-03-18-morovati/</link>
+      <pubDate>Sat, 01 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2019-03-18-morovati/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating Value at Risk with Using Wavelet Analysis (Case Study: Tehran Stock Exchange)</title>
+      <link>/publication/2019-03-18-nazarizade/</link>
+      <pubDate>Sat, 01 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2019-03-18-nazarizade/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Value-at-Risk Measurement Using A Cornish-Fisher Approximation of Normal Distribution ( A Study of Iranian Financial Institutions)</title>
+      <link>/publication/2019-03-18-shams/</link>
+      <pubDate>Sat, 01 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2019-03-18-shams/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
