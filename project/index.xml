@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on </title>
+    <link>/project/</link>
+    <description>Recent content in Projects on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 18 Mar 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A GUI to Estimate Hidden Populations</title>
+      <link>/project/a-gui-to-estimate-hidden-populations/</link>
+      <pubDate>Mon, 18 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/project/a-gui-to-estimate-hidden-populations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A GUI to Measure liquidity</title>
+      <link>/project/liq/liquidity/</link>
+      <pubDate>Mon, 18 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/project/liq/liquidity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Financial Spillover</title>
+      <link>/project/financial-spillover/</link>
+      <pubDate>Mon, 18 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/project/financial-spillover/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>KMV Model of Credit Risk</title>
+      <link>/project/kmv-model-of-credit-risk/</link>
+      <pubDate>Mon, 18 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/project/kmv-model-of-credit-risk/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
