@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>S. Dehghan on </title>
+    <link>/authors/s.-dehghan/</link>
+    <description>Recent content in S. Dehghan on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Jun 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/authors/s.-dehghan/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Deviation from Normal Distribution and Its Impact on the Differential Value-at-Risk</title>
+      <link>/publication/2019-03-18-dehghanman/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2019-03-18-dehghanman/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

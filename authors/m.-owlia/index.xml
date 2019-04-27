@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M. Owlia on </title>
+    <link>/authors/m.-owlia/</link>
+    <description>Recent content in M. Owlia on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/authors/m.-owlia/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Monitoring Financial Processes with ARMA-GARCH Model Based on Shewhart Control Chart (Case Study: Tehran Stock Exchange)</title>
+      <link>/publication/2019-03-18-dororian1/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2019-03-18-dororian1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The effect of parameter estimation on phase II control chart performance in monitoring financial GARCH processes with contaminated data</title>
+      <link>/publication/2019-03-18-doroudian2/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2019-03-18-doroudian2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

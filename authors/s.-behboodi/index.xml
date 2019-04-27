@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>S. Behboodi on </title>
+    <link>/authors/s.-behboodi/</link>
+    <description>Recent content in S. Behboodi on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Jun 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/authors/s.-behboodi/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Using Extreme Value Theory to Estimate Value at Risk (Case Study: Foreign Exchange Rate)</title>
+      <link>/publication/2019-03-18-behboodi/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2019-03-18-behboodi/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>S. Foroughi on </title>
+    <link>/authors/s.-foroughi/</link>
+    <description>Recent content in S. Foroughi on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Mar 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/authors/s.-foroughi/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Codification of Dendrograms Portfolio Based on Euclidean Distance Measure (A Comparison Between Different Methods of Hierarchical Clustering)</title>
+      <link>/publication/2019-03-18-foroughi/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2019-03-18-foroughi/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>D. Farid on </title>
+    <link>/authors/d.-farid/</link>
+    <description>Recent content in D. Farid on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Mar 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/authors/d.-farid/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Selection of Optimal Portfolio Using Expert System in Mamdani Fuzzy Environment</title>
+      <link>/publication/2019-03-18-koohbanani/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2019-03-18-koohbanani/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Measurement of Risk based on the Criterion of Value at Risk via Model of GARCH (A Study of Stock of Listeَd Companies in Tehran Stock Exchange (TSE) in the Cement Industry)</title>
+      <link>/publication/2019-03-18-kiani/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2019-03-18-kiani/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
