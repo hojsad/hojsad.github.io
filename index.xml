@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>/</link>
+    <description>Recent content on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0430</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Example Talk</title>
+      <link>/talk/example/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0430</pubDate>
+      
+      <guid>/talk/example/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &lt;p&gt;Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.&lt;/p&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Academic&amp;rsquo;s &lt;em&gt;Slides&lt;/em&gt; feature and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Further talk details can easily be added to this page using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A GUI to Estimate Hidden Populations</title>
+      <link>/project/a-gui-to-estimate-hidden-populations/</link>
+      <pubDate>Mon, 18 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/project/a-gui-to-estimate-hidden-populations/</guid>
+      <description>&lt;p&gt;&lt;iframe width=&#34;1000&#34; height=&#34;1000&#34; scrolling=&#34;yes&#34; frameborder=&#34;no&#34; src=&#34;https://sadeqi.shinyapps.io/networkreportingGUI/&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A GUI to Measure liquidity</title>
+      <link>/project/liq/liquidity/</link>
+      <pubDate>Mon, 18 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/project/liq/liquidity/</guid>
+      <description>&lt;p&gt;&lt;iframe width=&#34;1000&#34; height=&#34;1000&#34; scrolling=&#34;yes&#34; frameborder=&#34;no&#34; src=&#34;https://sadeqi.shinyapps.io/liquidity_final/&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Financial Spillover</title>
+      <link>/project/financial-spillover/</link>
+      <pubDate>Mon, 18 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/project/financial-spillover/</guid>
+      <description>&lt;p&gt;&lt;iframe width=&#34;1000&#34; height=&#34;1000&#34; scrolling=&#34;yes&#34; frameborder=&#34;no&#34; src=&#34;https://sadeqi.shinyapps.io/spillover_final/&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>KMV Model of Credit Risk</title>
+      <link>/project/kmv-model-of-credit-risk/</link>
+      <pubDate>Mon, 18 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/project/kmv-model-of-credit-risk/</guid>
+      <description>&lt;p&gt;&lt;iframe width=&#34;1000&#34; height=&#34;1000&#34; scrolling=&#34;yes&#34; frameborder=&#34;no&#34; src=&#34;https://sadeqi.shinyapps.io/kmvmodel/&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>mahi</title>
+      <link>/post/mahi/</link>
+      <pubDate>Sun, 17 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/mahi/</guid>
+      <description>
+
+
+&lt;p&gt;&lt;img src=&#34;/project/2019-03-18-financial-spillover_files/spillover.jpg&#34; alt=&#34;spillover&#34; width=&#34;400px&#34; height=&#34;200px&#34;/&gt; &lt;iframe width=&#34;1000&#34; height=&#34;1000&#34; scrolling=&#34;yes&#34; frameborder=&#34;no&#34; src=&#34;https://sadeqi.shinyapps.io/liquidity_final/&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Stabilization of Financial Dendrograms as a Method of Systemic Changes Measurement (A Study of TSE&#39;s Indices)</title>
+      <link>/publication/2019-03-18-varzide/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2019-03-18-varzide/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Display Jupyter Notebooks with Academic</title>
+      <link>/post/jupyter/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/jupyter/</guid>
+      <description>
+
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;from IPython.core.display import Image
+Image(&#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&#39;)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;img src=&#34;./academic_0_0.png&#34; alt=&#34;png&#34; /&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;print(&amp;quot;Welcome to Academic!&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;pre&gt;&lt;code&gt;Welcome to Academic!
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&#34;install-python-and-jupyter&#34;&gt;Install Python and Jupyter&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.anaconda.com/distribution/#download-section&#34; target=&#34;_blank&#34;&gt;Install Anaconda&lt;/a&gt; which includes Python 3 and Jupyter notebook.&lt;/p&gt;
+
+&lt;p&gt;Otherwise, for advanced users, install Jupyter notebook with &lt;code&gt;pip3 install jupyter&lt;/code&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;create-a-new-blog-post-as-usual-https-sourcethemes-com-academic-docs-managing-content-create-a-blog-post&#34;&gt;Create a new blog post &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-a-blog-post&#34; target=&#34;_blank&#34;&gt;as usual&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Run the following commands in your Terminal, substituting &lt;code&gt;&amp;lt;MY_WEBSITE_FOLDER&amp;gt;&lt;/code&gt; and &lt;code&gt;my-post&lt;/code&gt; with the file path to your Academic website folder and a name for your blog post (without spaces), respectively:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;cd &amp;lt;MY_WEBSITE_FOLDER&amp;gt;
+hugo new  --kind post post/my-post
+cd &amp;lt;MY_WEBSITE_FOLDER&amp;gt;/content/post/my-post/
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&#34;create-or-upload-a-jupyter-notebook&#34;&gt;Create or upload a Jupyter notebook&lt;/h2&gt;
+
+&lt;p&gt;Run the following command to start Jupyter within your new blog post folder. Then create a new Jupyter notebook (&lt;em&gt;New &amp;gt; Python Notebook&lt;/em&gt;) or upload a notebook.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;jupyter notebook
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&#34;convert-notebook-to-markdown&#34;&gt;Convert notebook to Markdown&lt;/h2&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;jupyter nbconvert Untitled.ipynb --to markdown --NbConvertApp.output_files_dir=.
+
+# Copy the contents of Untitled.md and append it to index.md:
+cat Untitled.md | tee -a index.md
+
+# Remove the temporary file:
+rm Untitled.md
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&#34;edit-your-post-metadata&#34;&gt;Edit your post metadata&lt;/h2&gt;
+
+&lt;p&gt;Open &lt;code&gt;index.md&lt;/code&gt; in your text editor and edit the title etc. in the &lt;a href=&#34;https://sourcethemes.com/academic/docs/front-matter/&#34; target=&#34;_blank&#34;&gt;front matter&lt;/a&gt; according to your preference.&lt;/p&gt;
+
+&lt;p&gt;To set a &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#featured-image&#34; target=&#34;_blank&#34;&gt;featured image&lt;/a&gt;, place an image named &lt;code&gt;featured&lt;/code&gt; into your post&amp;rsquo;s folder.&lt;/p&gt;
+
+&lt;p&gt;For other tips, such as using math, see the guide on &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;writing content with Academic&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Example Page</title>
+      <link>/tutorial/example/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 +0430</pubDate>
+      
+      <guid>/tutorial/example/</guid>
+      <description>
+
+&lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
+
+&lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
+
+&lt;p&gt;&amp;hellip;&lt;/p&gt;
+
+&lt;h2 id=&#34;tip-2&#34;&gt;Tip 2&lt;/h2&gt;
+
+&lt;p&gt;&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>/privacy/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0430</pubDate>
+      
+      <guid>/privacy/</guid>
+      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Selection of Optimal Portfolio Using Expert System in Mamdani Fuzzy Environment</title>
+      <link>/publication/2019-03-18-koohbanani/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2019-03-18-koohbanani/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Denoising of Financial Time Series Using Wavelet Analysis</title>
+      <link>/publication/2019-03-18-dehghanifirooz/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2019-03-18-dehghanifirooz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Codification of Dendrograms Portfolio Based on Euclidean Distance Measure (A Comparison Between Different Methods of Hierarchical Clustering)</title>
+      <link>/publication/2019-03-18-foroughi/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2019-03-18-foroughi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Monitoring Financial Processes with ARMA-GARCH Model Based on Shewhart Control Chart (Case Study: Tehran Stock Exchange)</title>
+      <link>/publication/2019-03-18-dororian1/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2019-03-18-dororian1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The effect of parameter estimation on phase II control chart performance in monitoring financial GARCH processes with contaminated data</title>
+      <link>/publication/2019-03-18-doroudian2/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2019-03-18-doroudian2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
