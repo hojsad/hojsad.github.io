@@ -44,24 +44,8 @@
     
     <url>
     
-      <loc>/post/mahi/</loc>
-      <lastmod>2019-03-17T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>/publication/2019-03-18-varzide/</loc>
       <lastmod>2019-03-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/post/jupyter/</loc>
-      <lastmod>2019-02-05T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -148,24 +132,8 @@
     
     <url>
     
-      <loc>/post/getting-started/</loc>
-      <lastmod>2018-01-13T00:00:00+03:30</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>/publication/2019-03-18-kiani/</loc>
       <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/post/2015-07-23-r-rmarkdown/</loc>
-      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     </url>
     
   
@@ -232,15 +200,6 @@
     
       <loc>/authors/a.-morovati/</loc>
       <lastmod>2014-03-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/academic/</loc>
-      <lastmod>2018-01-13T00:00:00+03:30</lastmod>
       <priority>0</priority>
     </url>
     
@@ -353,14 +312,6 @@
     
     <url>
     
-      <loc>/post/</loc>
-      <lastmod>2019-03-17T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>/project/</loc>
       <lastmod>2019-03-18T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -381,24 +332,6 @@
     
       <loc>/publication/</loc>
       <lastmod>2019-03-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/categories/r/</loc>
-      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/r-markdown/</loc>
-      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -474,7 +407,6 @@
     <url>
     
       <loc>/tags/</loc>
-      <lastmod>2018-01-13T00:00:00+03:30</lastmod>
       <priority>0</priority>
     </url>
     
@@ -484,33 +416,6 @@
     
       <loc>/authors/z.-dehghani/</loc>
       <lastmod>2017-09-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/authors/admin/</loc>
-      <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/plot/</loc>
-      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/regression/</loc>
-      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
       <priority>0</priority>
     </url>
     
